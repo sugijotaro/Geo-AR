@@ -108,3 +108,4 @@ xcuserdata/
 *.moved-aside
 !.gitkeep
 ProjectSettings/ARCoreExtensionsProjectSettings.json
+iOS/Libraries/libiPhone-lib.a
